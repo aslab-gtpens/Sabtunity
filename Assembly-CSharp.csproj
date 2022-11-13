@@ -36,11 +36,12 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\P3 - 29102022\Scripts\SpawnerObstacle.cs" />
-     <Compile Include="Assets\P3 - 29102022\Scripts\PlayerMove.cs" />
-     <Compile Include="Assets\P3 - 29102022\Scripts\CameraFollow.cs" />
-     <Compile Include="Assets\P3 - 29102022\Scripts\ScoringSystem.cs" />
-     <Compile Include="Assets\P3 - 29102022\Scripts\AddScore.cs" />
+     <Compile Include="Assets\Flappy Bird P4 - 05112022\Scripts\SpawnerObstacle.cs" />
+     <Compile Include="Assets\Flappy Bird P4 - 05112022\Scripts\PlayerMove.cs" />
+     <Compile Include="Assets\Flappy Bird P4 - 05112022\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Flappy Bird P4 - 05112022\Scripts\ScoringSystem.cs" />
+     <Compile Include="Assets\Flappy Bird P4 - 05112022\Scripts\AddScore.cs" />
+     <Compile Include="Assets\TicTacToe - P5 - 12112022\GameManager.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
